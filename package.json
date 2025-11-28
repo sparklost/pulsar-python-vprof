@@ -3,9 +3,9 @@
   "main": "./lib/main.js",
   "version": "0.1.2",
   "description": "Show vprof Python profiling results in gutter",
-  "repository": "https://github.com/mzivic7/pulsar-python-vprof",
+  "repository": "https://github.com/sparklost/pulsar-python-vprof",
   "license": "GPL-3.0",
-  "bugs": "https://github.com/mzivic7/pulsar-python-vprof/issues",
+  "bugs": "https://github.com/sparklost/pulsar-python-vprof/issues",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
